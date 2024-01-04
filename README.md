@@ -31,10 +31,10 @@ Read the [documentation online](https://farama-foundation.github.io/HighwayEnv/)
 
 If you use the project in your work, please consider citing it with:
 ```bibtex
-@misc{highway-env,
-  author = {Leurent, Edouard},
-  title = {An Environment for Autonomous Driving Decision-Making},
-  year = {2018},
+@misc{
+  author = {Andy Seoho Yun, Xinlei Liu,Chanseok Oh},
+  title = {Safe-ParkDRL for School Zones},
+  year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/eleurent/highway-env}},
