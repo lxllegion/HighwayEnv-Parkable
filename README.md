@@ -8,6 +8,7 @@ Human-to-car interaction for autonomous parking is a research area that has rece
 ## Installation
 
 First, install highway-env
+
 `pip install highway-env`
 
 Then, use this page to add more Objects
